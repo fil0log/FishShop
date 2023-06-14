@@ -14,7 +14,7 @@
             <Label FontSize="15" Content="ДОБРО ПОЖАЛОВАТЬ НА СТРАНИЦУ АВТОРИЗАЦИИ" HorizontalContentAlignment="Center" Margin="10,48,10,207" />
             <TextBox Text="Admin" Name="LoginUserTextBox" Margin="139,115,10,134" ></TextBox>
             <TextBox Text="Admin" Name="PasswordUserTextBox" Margin="139,175,10,74" ></TextBox>
-            <Button Name="VersionsTerminalButton" Content="Версия для терминала"  Click="VersionsTerminalButton_Click" Margin="215,235,10,22"></Button>
+            <Button Name="VersionsTerminalButton" Content="Версия для терминала"  Click="VersionsTerminalButton_Click" Margin="224,235,10,22"></Button>
             <Button Name="LoginButton" Content="Войти" Click="LoginButton_Click" Margin="10,235,244,22"></Button>
         </Grid>
         <Grid Name="TovarsGrid" Background="White" Visibility="Hidden">
